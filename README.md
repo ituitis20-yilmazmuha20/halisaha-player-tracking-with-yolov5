@@ -9,8 +9,8 @@ To get this project up and running, you'll need to set up the YOLOv5, part of th
 
 1. Clone the YOLOv5 Repository:
 Clone the YOLOv5 repository from Ultralytics by running:  
-git clone https://github.com/ultralytics/yolov5.git
-Navigate into the cloned directory:
+git clone https://github.com/ultralytics/yolov5.git  
+Navigate into the cloned directory:  
 cd yolov5
 
 3. Integrate Project Files:
