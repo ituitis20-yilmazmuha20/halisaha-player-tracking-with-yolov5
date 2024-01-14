@@ -1,0 +1,14 @@
+train: train_data_for_ablation_study/images/train  # train images (relative to 'path') 128 images
+val: train_data_for_ablation_study/images/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+names:
+  0: person
+
+
+# wandb
+#wandb:
+#  project: "yolov5_validation"
+#  entity: "yilmazmuha00"
+
